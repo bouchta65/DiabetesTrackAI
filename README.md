@@ -4,10 +4,7 @@
 
 ## Description
 
-Vous êtes un développeur IA junior au sein d’un laboratoire biomédical. DiabetesTrackAI est un projet visant à concevoir, entraîner et déployer un système intelligent capable :
-
-* de **classer** les patients selon leur risque de diabète (risque élevé / faible) ;
-* de **regrouper (clustering)** les données pour identifier des profils de patients similaires.
+DiabetesTrack_AI est un projet d’intelligence artificielle dédié à l’analyse et à la prédiction du risque de diabète chez les patients. Il utilise des techniques de clustering pour segmenter les profils de patients et des modèles de classification supervisée (Random Forest, SVM, XGBoost, etc.) pour prédire avec précision le risque de diabète.
 
 Le modèle s'appuie sur des critères cliniques usuels : **Glucose, BloodPressure, SkinThickness, Insulin, BMI, Diabetes Pedigree Function, Age**, et d'autres colonnes présentes dans le jeu de données historique du laboratoire.
 
